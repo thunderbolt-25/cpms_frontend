@@ -75,7 +75,7 @@ Clone the project:
 Change Directory:
 
 ```bash
-  cd kollege
+  cd cpms_forntend
 ```
 
 Install dependencies:
