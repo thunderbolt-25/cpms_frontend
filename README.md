@@ -1,6 +1,6 @@
 # CPMS(College ERP)
 
-[kollege.onrender.com](https://kollege.onrender.com)
+[collegerp.netlify.app](https://collegerp.netlify.app)
 
 A College Based Data Management System.
 
